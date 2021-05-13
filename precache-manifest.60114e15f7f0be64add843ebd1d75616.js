@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f9db350d3b79b8790d8f",
+    "revision": "38fc0683a94fd5ec7a74",
     "url": "/re-store-practice/static/css/main.afd5fcf4.chunk.css"
   },
   {
-    "revision": "f9db350d3b79b8790d8f",
-    "url": "/re-store-practice/static/js/main.f9db350d.chunk.js"
+    "revision": "38fc0683a94fd5ec7a74",
+    "url": "/re-store-practice/static/js/main.38fc0683.chunk.js"
   },
   {
     "revision": "cc74583b96b13bbbaadc",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/re-store-practice/static/js/runtime~main.63033aa6.js"
   },
   {
-    "revision": "30297d43c859db9602489e3896103a9b",
+    "revision": "7bd642a6a1d5a68fdef5c14433e4efb3",
     "url": "/re-store-practice/index.html"
   }
 ];
