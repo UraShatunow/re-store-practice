@@ -1,4 +1,4 @@
-### Ссылка на проект: https://urashatunow.github.io/re-store-practice/
+### Ссылка на проект: https://urashatunow.github.io/re-store-practice
 
 ## Что это такое?
  
